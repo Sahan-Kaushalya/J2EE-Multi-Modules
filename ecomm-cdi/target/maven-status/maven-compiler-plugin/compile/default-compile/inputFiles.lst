@@ -1,0 +1,10 @@
+D:\Development\BCU\BCD\j2ee-multi-modules\ecomm-cdi\src\main\java\lk\kaushalya\ecomm\annotation\Console.java
+D:\Development\BCU\BCD\j2ee-multi-modules\ecomm-cdi\src\main\java\lk\kaushalya\ecomm\annotation\Email.java
+D:\Development\BCU\BCD\j2ee-multi-modules\ecomm-cdi\src\main\java\lk\kaushalya\ecomm\annotation\SMS.java
+D:\Development\BCU\BCD\j2ee-multi-modules\ecomm-cdi\src\main\java\lk\kaushalya\ecomm\cdi\EmailNotifier.java
+D:\Development\BCU\BCD\j2ee-multi-modules\ecomm-cdi\src\main\java\lk\kaushalya\ecomm\cdi\Logger.java
+D:\Development\BCU\BCD\j2ee-multi-modules\ecomm-cdi\src\main\java\lk\kaushalya\ecomm\cdi\MyService.java
+D:\Development\BCU\BCD\j2ee-multi-modules\ecomm-cdi\src\main\java\lk\kaushalya\ecomm\cdi\NotificationService.java
+D:\Development\BCU\BCD\j2ee-multi-modules\ecomm-cdi\src\main\java\lk\kaushalya\ecomm\cdi\SMSNotifier.java
+D:\Development\BCU\BCD\j2ee-multi-modules\ecomm-cdi\src\main\java\lk\kaushalya\ecomm\ejb\AppSettingSessionBean.java
+D:\Development\BCU\BCD\j2ee-multi-modules\ecomm-cdi\src\main\java\lk\kaushalya\ecomm\ejb\remote\AppSetting.java

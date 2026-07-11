@@ -1,0 +1,10 @@
+lk\kaushalya\ecomm\cdi\EmailNotifier.class
+lk\kaushalya\ecomm\ejb\AppSettingSessionBean.class
+lk\kaushalya\ecomm\cdi\MyService.class
+lk\kaushalya\ecomm\annotation\SMS.class
+lk\kaushalya\ecomm\ejb\remote\AppSetting.class
+lk\kaushalya\ecomm\cdi\NotificationService.class
+lk\kaushalya\ecomm\annotation\Console.class
+lk\kaushalya\ecomm\cdi\Logger.class
+lk\kaushalya\ecomm\cdi\SMSNotifier.class
+lk\kaushalya\ecomm\annotation\Email.class

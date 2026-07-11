@@ -1,0 +1,11 @@
+package lk.kaushalya.ecomm.ejb.remote;
+
+import jakarta.ejb.Remote;
+
+@Remote
+public interface AppSetting {
+    String getName();
+    String getVersion();
+    String getDescription();
+    String getDevelopers();
+}
